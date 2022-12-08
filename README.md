@@ -1,4 +1,4 @@
-ML4Crypto_birtmodelpkl: BIRT model that should be used as our final submission model. (it is in Large file size (lfs) format).
+ML4Crypto_bertmodelpkl: BIRT model that should be used as our final submission model. (it is in Large file size (lfs) format).
 
 ML4Crypto_birtmodelpkl: Alternate model that was built on the logic of 'frequency within cipher blocks'.
 
