@@ -1,6 +1,6 @@
 ML4Crypto_bertmodelpkl: BIRT model that should be used as our final submission model. (it is in Large file size (lfs) format).
 
-ML4Crypto_bertmodelpkl: Alternate model that was built on the logic of 'frequency within cipher blocks'.
+ML4Crypto_modelpkl: Alternate model that was built on the logic of 'frequency within cipher blocks'.
 
 Link to Training Data.txt: txt file containing the training data
 
